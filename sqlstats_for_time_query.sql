@@ -1,3 +1,4 @@
+-- SQLSTATS_FOR_TIME_QUERY --
 COL con_id FOR 999 HEA 'Con|ID';
 COL avg_et_ms FOR 99,999,990.000 HEA 'Avg Elapsed|Time (ms)';
 COL avg_cpu_ms FOR 99,999,990.000 HEA 'Avg CPU|Time (ms)';
